@@ -1,0 +1,410 @@
+[
+  {
+    "Job_ID": "J001",
+    "Job_Title_EN": "HR Executive",
+    "Job_Title_VI": "Chuyên viên nhân sự",
+    "Original_Minimum_Salary": 35000,
+    "Original_Maximum_Salary": 50000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J002",
+    "Job_Title_EN": "HR Business Partner",
+    "Job_Title_VI": "Đối tác nhân sự chiến lược (HRBP)",
+    "Original_Minimum_Salary": 55000,
+    "Original_Maximum_Salary": 75000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J003",
+    "Job_Title_EN": "Recruiter",
+    "Job_Title_VI": "Chuyên viên tuyển dụng",
+    "Original_Minimum_Salary": 40000,
+    "Original_Maximum_Salary": 58000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J004",
+    "Job_Title_EN": "HR Manager",
+    "Job_Title_VI": "Trưởng phòng nhân sự",
+    "Original_Minimum_Salary": 80000,
+    "Original_Maximum_Salary": 110000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J005",
+    "Job_Title_EN": "Chief HR Officer",
+    "Job_Title_VI": "Giám đốc nhân sự (CHRO)",
+    "Original_Minimum_Salary": 160000,
+    "Original_Maximum_Salary": 220000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J006",
+    "Job_Title_EN": "Financial Analyst",
+    "Job_Title_VI": "Chuyên viên phân tích tài chính",
+    "Original_Minimum_Salary": 45000,
+    "Original_Maximum_Salary": 65000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J007",
+    "Job_Title_EN": "Accountant",
+    "Job_Title_VI": "Kế toán viên",
+    "Original_Minimum_Salary": 38000,
+    "Original_Maximum_Salary": 55000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J008",
+    "Job_Title_EN": "Finance Manager",
+    "Job_Title_VI": "Trưởng phòng tài chính",
+    "Original_Minimum_Salary": 85000,
+    "Original_Maximum_Salary": 120000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J009",
+    "Job_Title_EN": "Financial Controller",
+    "Job_Title_VI": "Trưởng bộ phận kiểm soát tài chính",
+    "Original_Minimum_Salary": 120000,
+    "Original_Maximum_Salary": 160000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J010",
+    "Job_Title_EN": "Chief Financial Officer",
+    "Job_Title_VI": "Giám đốc tài chính (CFO)",
+    "Original_Minimum_Salary": 180000,
+    "Original_Maximum_Salary": 260000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J011",
+    "Job_Title_EN": "Software Engineer",
+    "Job_Title_VI": "Kỹ sư phần mềm",
+    "Original_Minimum_Salary": 50000,
+    "Original_Maximum_Salary": 75000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J012",
+    "Job_Title_EN": "Senior Software Engineer",
+    "Job_Title_VI": "Kỹ sư phần mềm cao cấp",
+    "Original_Minimum_Salary": 80000,
+    "Original_Maximum_Salary": 110000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J013",
+    "Job_Title_EN": "QA Engineer",
+    "Job_Title_VI": "Kỹ sư kiểm thử phần mềm (QA)",
+    "Original_Minimum_Salary": 45000,
+    "Original_Maximum_Salary": 68000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J014",
+    "Job_Title_EN": "DevOps Engineer",
+    "Job_Title_VI": "Kỹ sư DevOps",
+    "Original_Minimum_Salary": 75000,
+    "Original_Maximum_Salary": 105000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J015",
+    "Job_Title_EN": "Data Analyst",
+    "Job_Title_VI": "Chuyên viên phân tích dữ liệu",
+    "Original_Minimum_Salary": 48000,
+    "Original_Maximum_Salary": 70000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J016",
+    "Job_Title_EN": "Data Scientist",
+    "Job_Title_VI": "Chuyên gia khoa học dữ liệu",
+    "Original_Minimum_Salary": 85000,
+    "Original_Maximum_Salary": 120000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J017",
+    "Job_Title_EN": "System Administrator",
+    "Job_Title_VI": "Quản trị viên hệ thống",
+    "Original_Minimum_Salary": 42000,
+    "Original_Maximum_Salary": 63000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J018",
+    "Job_Title_EN": "IT Manager",
+    "Job_Title_VI": "Trưởng phòng công nghệ thông tin",
+    "Original_Minimum_Salary": 95000,
+    "Original_Maximum_Salary": 130000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J019",
+    "Job_Title_EN": "Chief Technology Officer",
+    "Job_Title_VI": "Giám đốc công nghệ (CTO)",
+    "Original_Minimum_Salary": 190000,
+    "Original_Maximum_Salary": 270000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J020",
+    "Job_Title_EN": "Sales Executive",
+    "Job_Title_VI": "Nhân viên kinh doanh",
+    "Original_Minimum_Salary": 32000,
+    "Original_Maximum_Salary": 48000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J021",
+    "Job_Title_EN": "Account Manager",
+    "Job_Title_VI": "Chuyên viên quản lý khách hàng",
+    "Original_Minimum_Salary": 55000,
+    "Original_Maximum_Salary": 78000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J022",
+    "Job_Title_EN": "Sales Manager",
+    "Job_Title_VI": "Trưởng phòng kinh doanh",
+    "Original_Minimum_Salary": 85000,
+    "Original_Maximum_Salary": 115000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J023",
+    "Job_Title_EN": "Regional Sales Director",
+    "Job_Title_VI": "Giám đốc kinh doanh khu vực",
+    "Original_Minimum_Salary": 120000,
+    "Original_Maximum_Salary": 155000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J024",
+    "Job_Title_EN": "VP of Sales",
+    "Job_Title_VI": "Phó tổng giám đốc phụ trách kinh doanh",
+    "Original_Minimum_Salary": 150000,
+    "Original_Maximum_Salary": 200000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J025",
+    "Job_Title_EN": "Marketing Executive",
+    "Job_Title_VI": "Chuyên viên marketing",
+    "Original_Minimum_Salary": 34000,
+    "Original_Maximum_Salary": 50000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J026",
+    "Job_Title_EN": "Content Strategist",
+    "Job_Title_VI": "Chuyên viên chiến lược nội dung",
+    "Original_Minimum_Salary": 42000,
+    "Original_Maximum_Salary": 60000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J027",
+    "Job_Title_EN": "Brand Manager",
+    "Job_Title_VI": "Quản lý thương hiệu",
+    "Original_Minimum_Salary": 70000,
+    "Original_Maximum_Salary": 95000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J028",
+    "Job_Title_EN": "Marketing Manager",
+    "Job_Title_VI": "Trưởng phòng marketing",
+    "Original_Minimum_Salary": 82000,
+    "Original_Maximum_Salary": 112000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J029",
+    "Job_Title_EN": "Chief Marketing Officer",
+    "Job_Title_VI": "Giám đốc marketing (CMO)",
+    "Original_Minimum_Salary": 165000,
+    "Original_Maximum_Salary": 225000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J030",
+    "Job_Title_EN": "Operations Executive",
+    "Job_Title_VI": "Chuyên viên vận hành",
+    "Original_Minimum_Salary": 33000,
+    "Original_Maximum_Salary": 48000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J031",
+    "Job_Title_EN": "Supply Chain Analyst",
+    "Job_Title_VI": "Chuyên viên phân tích chuỗi cung ứng",
+    "Original_Minimum_Salary": 50000,
+    "Original_Maximum_Salary": 72000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J032",
+    "Job_Title_EN": "Operations Manager",
+    "Job_Title_VI": "Trưởng phòng vận hành",
+    "Original_Minimum_Salary": 84000,
+    "Original_Maximum_Salary": 115000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J033",
+    "Job_Title_EN": "VP of Operations",
+    "Job_Title_VI": "Phó tổng giám đốc phụ trách vận hành",
+    "Original_Minimum_Salary": 145000,
+    "Original_Maximum_Salary": 195000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J034",
+    "Job_Title_EN": "Support Executive",
+    "Job_Title_VI": "Nhân viên hỗ trợ khách hàng",
+    "Original_Minimum_Salary": 28000,
+    "Original_Maximum_Salary": 40000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J035",
+    "Job_Title_EN": "Support Team Lead",
+    "Job_Title_VI": "Trưởng nhóm hỗ trợ khách hàng",
+    "Original_Minimum_Salary": 48000,
+    "Original_Maximum_Salary": 65000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J036",
+    "Job_Title_EN": "Customer Success Manager",
+    "Job_Title_VI": "Trưởng phòng chăm sóc và phát triển khách hàng",
+    "Original_Minimum_Salary": 70000,
+    "Original_Maximum_Salary": 98000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J037",
+    "Job_Title_EN": "Research Scientist",
+    "Job_Title_VI": "Chuyên gia nghiên cứu khoa học",
+    "Original_Minimum_Salary": 75000,
+    "Original_Maximum_Salary": 105000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J038",
+    "Job_Title_EN": "R&D Engineer",
+    "Job_Title_VI": "Kỹ sư nghiên cứu và phát triển (R&D)",
+    "Original_Minimum_Salary": 60000,
+    "Original_Maximum_Salary": 88000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J039",
+    "Job_Title_EN": "R&D Manager",
+    "Job_Title_VI": "Trưởng phòng nghiên cứu và phát triển (R&D)",
+    "Original_Minimum_Salary": 100000,
+    "Original_Maximum_Salary": 135000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J040",
+    "Job_Title_EN": "Chief Innovation Officer",
+    "Job_Title_VI": "Giám đốc đổi mới sáng tạo",
+    "Original_Minimum_Salary": 170000,
+    "Original_Maximum_Salary": 230000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J041",
+    "Job_Title_EN": "Legal Associate",
+    "Job_Title_VI": "Chuyên viên pháp chế",
+    "Original_Minimum_Salary": 48000,
+    "Original_Maximum_Salary": 68000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J042",
+    "Job_Title_EN": "Legal Counsel",
+    "Job_Title_VI": "Cố vấn pháp lý doanh nghiệp",
+    "Original_Minimum_Salary": 95000,
+    "Original_Maximum_Salary": 130000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J043",
+    "Job_Title_EN": "Compliance Manager",
+    "Job_Title_VI": "Trưởng phòng tuân thủ",
+    "Original_Minimum_Salary": 90000,
+    "Original_Maximum_Salary": 120000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J044",
+    "Job_Title_EN": "Procurement Executive",
+    "Job_Title_VI": "Chuyên viên mua hàng",
+    "Original_Minimum_Salary": 34000,
+    "Original_Maximum_Salary": 50000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J045",
+    "Job_Title_EN": "Procurement Manager",
+    "Job_Title_VI": "Trưởng phòng mua hàng",
+    "Original_Minimum_Salary": 80000,
+    "Original_Maximum_Salary": 108000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J046",
+    "Job_Title_EN": "Vendor Relations Manager",
+    "Job_Title_VI": "Trưởng bộ phận quản lý nhà cung cấp",
+    "Original_Minimum_Salary": 65000,
+    "Original_Maximum_Salary": 90000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J047",
+    "Job_Title_EN": "Admin Executive",
+    "Job_Title_VI": "Nhân viên hành chính",
+    "Original_Minimum_Salary": 28000,
+    "Original_Maximum_Salary": 42000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J048",
+    "Job_Title_EN": "Office Manager",
+    "Job_Title_VI": "Trưởng phòng hành chính",
+    "Original_Minimum_Salary": 50000,
+    "Original_Maximum_Salary": 70000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J049",
+    "Job_Title_EN": "Facilities Manager",
+    "Job_Title_VI": "Trưởng bộ phận quản lý cơ sở vật chất",
+    "Original_Minimum_Salary": 60000,
+    "Original_Maximum_Salary": 82000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J050",
+    "Job_Title_EN": "QA Analyst",
+    "Job_Title_VI": "Chuyên viên đảm bảo chất lượng",
+    "Original_Minimum_Salary": 36000,
+    "Original_Maximum_Salary": 52000,
+    "Original_Salary_Currency": "unspecified"
+  },
+  {
+    "Job_ID": "J051",
+    "Job_Title_EN": "QA Manager",
+    "Job_Title_VI": "Trưởng phòng đảm bảo chất lượng",
+    "Original_Minimum_Salary": 80000,
+    "Original_Maximum_Salary": 108000,
+    "Original_Salary_Currency": "unspecified"
+  }
+]

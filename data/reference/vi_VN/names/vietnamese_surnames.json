@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "country": "VN",
+  "locale": "vi_VN",
+  "description": "Vietnamese family-name reference for synthetic name generation (not personal records).",
+  "surname_count": 102,
+  "surnames": [
+    "Nguyễn",
+    "Trần",
+    "Lê",
+    "Phạm",
+    "Hoàng",
+    "Huỳnh",
+    "Vũ",
+    "Võ",
+    "Phan",
+    "Trương",
+    "Bùi",
+    "Đặng",
+    "Đỗ",
+    "Ngô",
+    "Hồ",
+    "Dương",
+    "Đinh",
+    "Đoàn",
+    "Lâm",
+    "Mai",
+    "Trịnh",
+    "Đào",
+    "Cao",
+    "Lý",
+    "Hà",
+    "Lưu",
+    "Lương",
+    "Thái",
+    "Châu",
+    "Tạ",
+    "Phùng",
+    "Tô",
+    "Vương",
+    "Văn",
+    "Tăng",
+    "Quách",
+    "Lại",
+    "Hứa",
+    "Thạch",
+    "Diệp",
+    "Từ",
+    "Chu",
+    "La",
+    "Đàm",
+    "Tống",
+    "Giang",
+    "Chung",
+    "Triệu",
+    "Kiều",
+    "Hồng",
+    "Trang",
+    "Đồng",
+    "Danh",
+    "Lư",
+    "Lữ",
+    "Thân",
+    "Kim",
+    "Mã",
+    "Bạch",
+    "Liêu",
+    "Tiêu",
+    "Dư",
+    "Bành",
+    "Âu",
+    "Tôn",
+    "Khưu",
+    "Sơn",
+    "Tất",
+    "Nghiêm",
+    "Lục",
+    "Quan",
+    "Phương",
+    "Mạc",
+    "Lai",
+    "Vòng",
+    "Mạch",
+    "Thiều",
+    "Trà",
+    "Đậu",
+    "Nhan",
+    "Lã",
+    "Trình",
+    "Ninh",
+    "Trầm",
+    "Vi",
+    "Biện",
+    "Hàng",
+    "Ôn",
+    "Chế",
+    "Nhâm",
+    "Tôn Nữ",
+    "Thi",
+    "Doãn",
+    "Khổng",
+    "Phù",
+    "Đường",
+    "Ông",
+    "Tôn Thất",
+    "Ngụy",
+    "Viên",
+    "Tào",
+    "Cù"
+  ],
+  "common_surname_groups_2022": [
+    {
+      "variants": [
+        "Nguyễn"
+      ],
+      "estimated_share_percent": 31.5
+    },
+    {
+      "variants": [
+        "Trần"
+      ],
+      "estimated_share_percent": 10.9
+    },
+    {
+      "variants": [
+        "Lê"
+      ],
+      "estimated_share_percent": 8.9
+    },
+    {
+      "variants": [
+        "Phạm"
+      ],
+      "estimated_share_percent": 5.9
+    },
+    {
+      "variants": [
+        "Hoàng",
+        "Huỳnh"
+      ],
+      "estimated_share_percent": 5.1
+    },
+    {
+      "variants": [
+        "Vũ",
+        "Võ"
+      ],
+      "estimated_share_percent": 3.9
+    },
+    {
+      "variants": [
+        "Phan"
+      ],
+      "estimated_share_percent": 2.8
+    },
+    {
+      "variants": [
+        "Trương"
+      ],
+      "estimated_share_percent": 2.2
+    },
+    {
+      "variants": [
+        "Bùi"
+      ],
+      "estimated_share_percent": 2.1
+    },
+    {
+      "variants": [
+        "Đặng"
+      ],
+      "estimated_share_percent": 1.9
+    },
+    {
+      "variants": [
+        "Đỗ"
+      ],
+      "estimated_share_percent": 1.9
+    },
+    {
+      "variants": [
+        "Ngô"
+      ],
+      "estimated_share_percent": 1.7
+    },
+    {
+      "variants": [
+        "Hồ"
+      ],
+      "estimated_share_percent": 1.5
+    },
+    {
+      "variants": [
+        "Dương"
+      ],
+      "estimated_share_percent": 1.4
+    },
+    {
+      "variants": [
+        "Đinh"
+      ],
+      "estimated_share_percent": 1.0
+    }
+  ],
+  "notes": [
+    "100 published surname groups yield 102 distinct spellings because Hoàng/Huỳnh and Vũ/Võ were split.",
+    "Estimated percentages are historical population-study estimates, not validated current frequencies; slash variants share one group estimate.",
+    "Do not treat the remaining names as uniformly prevalent or the list as exhaustive for every Vietnamese ethnic group."
+  ],
+  "references": [
+    "https://www.mdpi.com/2313-5778/8/1/16",
+    "https://luatminhkhue.vn/100-ho-cua-nguoi-viet-nam-pho-bien-nhat-hien-nay.aspx"
+  ]
+}
